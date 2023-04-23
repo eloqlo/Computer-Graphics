@@ -1,4 +1,4 @@
-CG Story Telling
+Implementaition
 
 	1 
 변환행렬이 많이 들어가는 작업이었던 만큼 처음에는 glLoadIdentity()를 이용해 각 변환간 간섭을 없앴음
